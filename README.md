@@ -1,7 +1,10 @@
 ### Hello there 👋
--✨ I'm dedicated learner who found a new passion in front-end web development. 
--✨I am continuously trying to improve my skills and build interesting projects. 
--✨ Currently I'm looking for intership or job in front-end web development.
+✨ I'm dedicated learner who found a new passion in front-end web development. 
+✨I am continuously trying to improve my skills and build interesting projects. 
+✨ Currently I'm looking for intership or job in front-end web development.
+
+### Used languages & tools: 
+[![My Skills](https://skills.thijs.gg/icons?i=ts, js,react,html,css,scss,nodejs,mongodb,vite,github,postman,styledcomponents,materialui,vscode&perline=8)](https://skills.thijs.gg)
 
 
 <!--
