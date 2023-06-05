@@ -1,6 +1,8 @@
 ### Hello there 👋
 ✨ I'm dedicated learner who found a new passion in front-end web development. 
+
 ✨I am continuously trying to improve my skills and build interesting projects. 
+
 ✨ Currently I'm looking for intership or job in front-end web development.
 
 ### Used languages & tools: 
