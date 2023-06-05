@@ -4,9 +4,18 @@
 ✨ Currently I'm looking for intership or job in front-end web development.
 
 ### Used languages & tools: 
-[![My Skills](https://skills.thijs.gg/icons?i=ts, js,react,html,css,scss,nodejs,mongodb,vite,github,postman,styledcomponents,materialui,vscode&perline=8)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=ts,js,react,html,css,scss,nodejs,mongodb,vite,github,postman,styledcomponents,materialui,vscode&perline=7)](https://skills.thijs.gg)
 
 
+### Let's connect!
+
+[![](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/inga-siud/)
+
+
+
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingaSiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **ingaSiu/ingaSiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
