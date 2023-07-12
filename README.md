@@ -3,6 +3,9 @@
 
 ✨I am continuously trying to improve my skills and build interesting projects. 
 
+✨ Currently I'm looking for intership or job in front-end web development.
+
+
 
 ### Used languages & tools: 
 [![My Skills](https://skills.thijs.gg/icons?i=ts,js,react,html,css,scss,styledcomponents,nodejs,mongodb,vite,github,postman,materialui,vscode&perline=7)](https://skills.thijs.gg)
