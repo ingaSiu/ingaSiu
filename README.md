@@ -8,8 +8,11 @@
 
 
 ### Used languages & tools: 
-[![My Skills](https://skills.thijs.gg/icons?i=ts,js,react,html,css,scss,styledcomponents,nodejs,mongodb,vite,github,postman,materialui,vscode&perline=7)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=ts,js,react,html,css,scss,styledcomponents,vite,github,postman,materialui,vscode&perline=6)](https://skillicons.dev)
 
+
+### Familiar with:
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,jest,nextjs,redux,tailwind,bootstrap)](https://skillicons.dev)
 
 ### Let's connect!
 
