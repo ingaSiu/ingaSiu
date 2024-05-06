@@ -8,7 +8,7 @@
 
 
 ### Used languages & tools: 
-[![My Skills](https://skills.thijs.gg/icons?i=ts,js,react,html,css,scss,styledcomponents,vite,github,postman,tailwind,vscode&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev//icons?i=ts,js,react,html,css,scss,styledcomponents,vite,github,postman,tailwind,vscode&perline=6)](https://skillicons.dev)
 
 
 ### Familiar with:
