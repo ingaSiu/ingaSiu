@@ -12,7 +12,7 @@
 
 
 ### Familiar with:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,jest,nextjs,redux,materialui,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,jest,nextjs,redux,materialui,bootstrap,vue)](https://skillicons.dev)
 
 ### Let's connect!
 
