@@ -3,8 +3,6 @@
 
 ✨I am continuously trying to improve my skills and build interesting projects. 
 
-✨ Currently I'm looking for internship or job in front-end web development.
-
 
 
 ### Used languages & tools: 
